@@ -20,6 +20,27 @@ Keywords: Supports **if** , **else**, **while**, **do**, and **print**.
 - Programming Paradigms: Combines procedural, object-oriented, and functional programming.
 
 ### Installation
-Clone the repository:
+- Clone the repository:
+```bash
 git clone https://github.com/username/MiniLang-Compiler.git
-Install the required dependencies (if any).
+```
+- Install the required dependencies (if any).
+
+### Usage
+1) Run the Jupyter Notebook in a Python environment.
+2) Follow the steps to:
+    - Perform Lexical Analysis.
+    - Generate Syntax Trees.
+    - Test with sample MiniLang code provided in the repository.
+
+
+### Example
+Example MiniLang Code:
+a=5; b=7; c=(9+a)*b;
+
+![image](https://github.com/user-attachments/assets/1a880515-a672-47c0-9c68-9ec015dc1060)
+
+
+
+
+
