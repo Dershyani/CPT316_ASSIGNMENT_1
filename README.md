@@ -1,9 +1,6 @@
 # CPT316_ASSIGNMENT_1
 ## MiniLang Compiler: A Simplified Compiler for Educational Purposes
 
-### Description
-This project implements a compiler for MiniLang, a simplified programming language designed for educational purposes. MiniLang introduces basic lexical elements, syntax rules, and error-handling mechanisms to demonstrate the core concepts of compiler design.
-
 ### Introduction
 The MiniLang Compiler supports:
 
